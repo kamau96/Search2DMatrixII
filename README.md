@@ -18,4 +18,8 @@ The following **strategies** were used:
 * [x] Reduced search volume using a binary search logic since rows were sorted
 * [x] Remaining subproblems also reduced their own size by binary search logic
 
+## Time Complexity and Space complexity
+
+* **nlogn** time complexity
+* **O(1)** space complexity
 
