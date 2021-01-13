@@ -14,7 +14,7 @@ Time spent: **1** hours spent in total
 
 The following **strategies** were used:
 
-* [x] Applied a divide and conquor strategy
+* [x] Applied a divide and conquer strategy
 * [x] Reduced search volume using a binary search logic since rows were sorted
 * [x] Remaining subproblems also reduced their own size by binary search logic
 
