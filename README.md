@@ -1,9 +1,10 @@
 # Search2DMatrixII
 
 **Question** 
+
 Write an efficient algorithm that searches for a target value in an m x n integer matrix. The matrix has the following properties:
-* [x] Integers in each row are sorted in ascending from left to right.
-* [x] Integers in each column are sorted in ascending from top to bottom. list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+* [i] Integers in each row are sorted in ascending from left to right.
+* [ii] Integers in each column are sorted in ascending from top to bottom. list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Benson Wainaina**
 
