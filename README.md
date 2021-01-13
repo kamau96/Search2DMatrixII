@@ -21,5 +21,5 @@ The following **strategies** were used:
 ## Time Complexity and Space complexity
 
 * **nlogn** time complexity
-* **O(1)** space complexity
+* **O(logn)** space complexity
 
